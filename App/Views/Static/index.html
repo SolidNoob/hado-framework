@@ -1,0 +1,48 @@
+{% extends "Partials/base.html" %}
+
+{% block title %}
+    HomePage
+{% endblock %}
+
+{% block content %}
+	<h1>Bonjour {{name}}</h1>
+	
+	<a href="{{ url('contactpage', {'name' : 'NomDeTest'}) }}">loooool</a>
+
+	{# {{ renderController('StaticController', 'contactAction', {'name': 'NomDeTest'}) }} #}
+	
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore tempora beatae praesentium nobis autem necessitatibus eaque nisi odit voluptates eius alias ipsum suscipit esse dolor explicabo officia, cupiditate fugit doloribus.</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore tempora beatae praesentium nobis autem necessitatibus eaque nisi odit voluptates eius alias ipsum suscipit esse dolor explicabo officia, cupiditate fugit doloribus.</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore tempora beatae praesentium nobis autem necessitatibus eaque nisi odit voluptates eius alias ipsum suscipit esse dolor explicabo officia, cupiditate fugit doloribus.</p>
+    
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore tempora beatae praesentium nobis autem necessitatibus eaque nisi odit voluptates eius alias ipsum suscipit esse dolor explicabo officia, cupiditate fugit doloribus.</p>
+
+	{% for article in articles %}
+		<a href='#'>{{article.id}} : {{ article.title }}</a><br/>
+		{{ article.published_at|date("d/m/Y H:i:s") }}
+		{{ article.body }}<br/>
+		{{article.category}}<br/><br/>
+	{% endfor %}
+
+	<div id="ajax-response"></div>
+	<a href="{{ url('loadArticlesAjax') }}" class='load-more-ajax'>Load more</a>
+
+{% endblock %}
+
+{% block js %}
+    <script>
+	    $('.load-more-ajax').click(function(event) {
+
+   			event.preventDefault();
+	    	$.ajax(this.href, {
+	    		dataType: 'json',
+	    		success: function(data) {
+			         $('#ajax-response').html(data);
+		      	}
+	    	});
+	    });
+    </script>
+{% endblock %}
+

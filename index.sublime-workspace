@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"slide-",
+				"slide-menu-back"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"slide",
+				"slide-menu-part"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"curr",
+				"currentHeight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"slide-menu-",
+				"slide-menu-part"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"list-si",
+				"list-style-image"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"dele",
+				"deletedRow"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"Twig",
+				"Twig_Loader_Array"
+			],
+			[
+				"Core",
+				"CoreException"
+			],
+			[
+				"create",
+				"createUrl"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"matc",
+				"matchRoute"
+			],
+			[
+				"route",
+				"routeCollection"
+			],
+			[
+				"contro",
+				"controllerName"
+			],
+			[
+				"comm",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"foo",
+				"footer-font-light"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"footer",
+				"footer-font-dark"
+			],
+			[
+				"footer-",
+				"footer-bg-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pack",
+				"package-price"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"se",
+				"second-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"sync",
+				"syncTags"
+			],
+			[
+				"Article",
+				"ArticleRequest"
+			],
+			[
+				"Rou",
+				"Route"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: BootstrapMinimalProject"
+			],
+			[
+				"Snippet: cdn",
+				"Snippet: BootstrapJsCDN"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: boo",
+				"Snippet: BootstrapMinimalProjectSnippet"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"browser integration",
+				"Browser Integration: Settings (Default)"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Angularjs/index.html",
+		"/C/wamp/www/Labs/Columns/isotope/index.php",
+		"/C/wamp/www/Labs/Columns/column-break/index.php",
+		"/C/wamp/www/Labs/Columns/from_scratch/index.php",
+		"/C/wamp/www/Labs/Columns/index.php",
+		"/C/wamp/www/interfaces/menuSlideContent/resources/js/app.js",
+		"/C/wamp/www/interfaces/menuSlideContent/resources/scss/app.scss",
+		"/C/wamp/www/interfaces/menuSlideContent/index.php",
+		"/C/wamp/www/Hado/App/Controllers/StaticController.php",
+		"/C/wamp/www/Hado/App/Views/Static/index.html",
+		"/C/wamp/www/Hado/App/Views/Partials/articles.html",
+		"/C/wamp/www/Hado/App/Views/Partials/base.html",
+		"/C/wamp/www/Hado/App/routes.php",
+		"/C/wamp/www/Hado/public/js/app.min.js",
+		"/C/wamp/www/Hado/Core/Controller.php",
+		"/C/wamp/www/Hado/Core/Database.php",
+		"/C/wamp/www/Hado/Helpers/Session.php",
+		"/C/wamp/www/Hado/index.php",
+		"/C/wamp/www/Hado/App/Views/Static/contact.html",
+		"/C/wamp/www/Hado/Core/Model.php",
+		"/C/wamp/www/Hado/App/Models/ArticleModel.php",
+		"/C/wamp/www/Hado/composer.json",
+		"/C/wamp/www/Hado/Helpers/DateTime.php",
+		"/C/wamp/www/Hado/App/Config.php",
+		"/C/wamp/www/Hado/App/Entities/Article.php",
+		"/C/wamp/www/Hado/Core/Router.php",
+		"/C/wamp/www/Hado/Core/View.php",
+		"/C/wamp/www/Hado/Core/App.php",
+		"/C/wamp/www/Hado/Core/Application.php",
+		"/C/wamp/www/Hado/App/config.php",
+		"/C/wamp/www/Hado/Core/Config.php",
+		"/C/wamp/www/Hado/Views/Partials/base.html",
+		"/C/wamp/www/Hado/Controllers/StaticController.php",
+		"/C/wamp/www/Hado/Views/Static/index.html",
+		"/C/wamp/www/Hado/Views/Static/contact.html",
+		"/C/wamp/www/Hadoken/Core/Application.php",
+		"/C/wamp/www/Hadoken/Views/Static/index.html",
+		"/C/wamp/www/Hadoken/Views/Partials/base.html",
+		"/C/wamp/www/Hadoken/Core/Router.php",
+		"/C/wamp/www/Hadoken/Core/CoreException.php",
+		"/C/wamp/www/Hadoken/Core/Controller.php",
+		"/C/wamp/www/Hadoken/Controllers/StaticController.php",
+		"/C/wamp/www/Hadoken/composer.json",
+		"/C/wamp/www/Hadoken/index.php",
+		"/C/wamp/www/Hadoken/Views/index.html",
+		"/C/wamp/www/Hadoken/App/routes.php",
+		"/C/wamp/www/Hadoken/App/config.php",
+		"/C/wamp/www/Hadoken/Controllers/TestController.php",
+		"/C/wamp/www/Hadoken/Routes/routes.php",
+		"/C/wamp/www/Hadoken/Core/ControllerException.php",
+		"/C/wamp/www/Hadoken/Core/RouterException.php",
+		"/C/wamp/www/Hadoken/.htaccess",
+		"/C/wamp/www/Hadoken/Core/Application.class.php",
+		"/C/wamp/www/Hadoken/Core/Router.class.php",
+		"/C/wamp/www/Hadoken/Core/RouterException.class.php",
+		"/C/wamp/www/Hadoken/Core/Controller.class.php",
+		"/C/wamp/www/Labs/Helper/DateHelper/index.php",
+		"/C/wamp/www/Labs/Helper/DateHelper/DateHelper.class.php",
+		"/C/wamp/www/Labs/Helper/DateHelper/test.php",
+		"/C/wamp/www/Labs/MetacriticAPI/index.php",
+		"/C/wamp/www/PHPClass/MandrillHelper/MandrillHelper.class.php",
+		"/C/wamp/www/PHPClass/MandrillHelper/readme.md",
+		"/C/wamp/www/interfaces/FlauntTheme/index.php",
+		"/C/wamp/www/interfaces/FlauntTheme/gulpfile.js",
+		"/C/wamp/www/interfaces/FlauntTheme/resources/js/app.js",
+		"/C/wamp/www/interfaces/FlauntTheme/resources/js/libs/npm.js",
+		"/C/wamp/www/interfaces/FlauntTheme/resources/scss/responsive.scss",
+		"/C/wamp/www/interfaces/FlauntTheme/resources/scss/app.scss",
+		"/C/wamp/www/interfaces/flaunt-theme/index.php",
+		"/C/wamp/www/interfaces/flaunt-theme/resources/scss/app.scss",
+		"/C/wamp/www/interfaces/flaunt-theme/resources/scss/responsive.scss",
+		"/C/wamp/www/interfaces/flaunt-theme/gulpfile.js",
+		"/C/wamp/www/interfaces/flaunt-theme/resources/js/app.js",
+		"/C/Users/Anthony/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/wamp/www/interfaces/flaunt-theme/public/js/app.min.js",
+		"/C/wamp/www/interfaces/flaunt-theme/public/css/lol.min.css",
+		"/C/wamp/www/interfaces/flaunt-theme/public/css/app.min.css",
+		"/C/wamp/www/interfaces/flaunt-theme/public/css/app.css",
+		"/C/wamp/www/interfaces/flaunt-theme/resources/js/main.js",
+		"/C/wamp/www/interfaces/flaunt-theme/resources/css/libs/bootstrap.css.map",
+		"/C/wamp/www/interfaces/flaunt-theme/resources/css/app.css",
+		"/C/wamp/www/interfaces/flaunt-theme/gulp.js",
+		"/C/wamp/www/LaravelTest/resources/views/articles/create.blade.php",
+		"/C/wamp/www/LaravelTest/app/Article.php",
+		"/C/wamp/www/LaravelTest/app/Providers/RouteServiceProvider.php",
+		"/C/wamp/www/LaravelTest/app/Http/Controllers/TagsController.php",
+		"/C/wamp/www/LaravelTest/app/Http/routes.php",
+		"/C/wamp/www/LaravelTest/app/Http/Controllers/ArticlesController.php",
+		"/C/wamp/www/LaravelTest/resources/views/articles/form.blade.php",
+		"/C/wamp/www/LaravelTest/resources/views/articles/edit.blade.php",
+		"/C/wamp/www/LaravelTest/resources/views/app.blade.php",
+		"/C/wamp/www/LaravelTest/app/Repositories/FooBarRepository.php",
+		"/C/wamp/www/LaravelTest/app/Http/Controllers/FooBarController.php",
+		"/C/wamp/www/LaravelTest/app/Providers/AppServiceProvider.php",
+		"/C/wamp/www/LaravelTest/app/Providers/ViewComposerServiceProvider.php",
+		"/C/wamp/www/LaravelTest/config/app.php",
+		"/C/wamp/www/LaravelTest/resources/views/partials/nav.blade.php",
+		"/C/wamp/www/LaravelTest/resources/assets/sass/app.scss",
+		"/C/wamp/www/LaravelTest/gulpfile.js",
+		"/C/wamp/www/LaravelTest/resources/js/libs/jquery-2.1.4.min.js",
+		"/C/wamp/www/LaravelTest/public/js/all.js",
+		"/C/wamp/www/LaravelTest/public/css/all.css",
+		"/C/wamp/www/LaravelTest/public/css/mon_style2.css",
+		"/C/wamp/www/LaravelTest/resources/assets/select2.min.js",
+		"/C/wamp/www/LaravelTest/resources/assets/bootstrap.min.css",
+		"/C/wamp/www/LaravelTest/resources/assets/jquery-2.1.4.min.js",
+		"/C/wamp/www/LaravelTest/resources/assets/bootstrap.min.js",
+		"/C/wamp/www/LaravelTest/resources/assets/select2.min.css",
+		"/C/wamp/www/LaravelTest/database/migrations/2015_09_24_173337_create_tags_table.php",
+		"/C/wamp/www/LaravelTest/resources/views/articles/show.blade.php",
+		"/C/wamp/www/LaravelTest/app/Tag.php",
+		"/C/wamp/www/LaravelTest/vendor/laracasts/flash/src/Laracasts/Flash/FlashNotifier.php",
+		"/C/wamp/www/LaravelTest/vendor/laracasts/flash/src/views/message.blade.php",
+		"/C/wamp/www/LaravelTest/resources/views/partials/flash.blade.php",
+		"/C/Users/Anthony/AppData/Roaming/Sublime Text 3/Packages/User/BootstrapMinimalProjectSnippet.sublime-snippet",
+		"/C/Users/Anthony/AppData/Roaming/Sublime Text 3/Packages/User/BootstrapJsSnippet.sublime-snippet",
+		"/C/wamp/www/LaravelTest/public/css/mon_style3.css",
+		"/C/wamp/www/LaravelTest/public/css/app.css",
+		"/C/wamp/www/LaravelTest/public/css/all.css.map",
+		"/C/wamp/www/LaravelTest/app/Http/Kernel.php",
+		"/C/wamp/www/LaravelTest/app/Http/Middleware/RedirectIfNotAManager.php",
+		"/C/wamp/www/LaravelTest/app/User.php",
+		"/C/wamp/www/LaravelTest/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/wamp/www/LaravelTest/app/Http/Middleware/Demo.php",
+		"/C/wamp/www/LaravelTest/app/Http/Controllers/Auth/AuthController.php",
+		"/C/wamp/www/LaravelTest/resources/views/auth/register.blade.php",
+		"/C/wamp/www/LaravelTest/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/wamp/www/LaravelTest/composer.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\LaravelTest\\resources"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"card",
+			"col-",
+			"$this->",
+			"self::$instance",
+			"self::$",
+			"this",
+			"Hadoken",
+			"findRoute",
+			" \n",
+			"var_dump",
+			"wow",
+			"#ddd",
+			"third",
+			"ending-phrase",
+			"quote",
+			"/>\n",
+			"lol",
+			"!');\n",
+			"        \n",
+			"dbal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"grid-item card",
+			"grid-column col-",
+			"self::$",
+			"$this->db",
+			"$this->",
+			"Hado",
+			"$border-color"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routese",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"tagscontr",
+				"app\\Http\\Controllers\\TagsController.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"articlecont",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"article",
+				"app\\Article.php"
+			],
+			[
+				"edit",
+				"resources\\views\\articles\\edit.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\articles\\create.blade.php"
+			],
+			[
+				"form",
+				"resources\\views\\articles\\form.blade.php"
+			],
+			[
+				"flash/message",
+				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+			],
+			[
+				"flashnoti",
+				"vendor\\laracasts\\flash\\src\\Laracasts\\Flash\\FlashNotifier.php"
+			],
+			[
+				"config/a",
+				"config\\app.php"
+			],
+			[
+				"articlecontroller",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"articles/cr",
+				"resources\\views\\articles\\create.blade.php"
+			],
+			[
+				"articlecon",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"registrar",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Auth\\Registrar.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"form.",
+				"resources\\views\\articles\\form.blade.php"
+			],
+			[
+				"createartic",
+				"app\\Http\\Requests\\CreateArticleRequest.php"
+			],
+			[
+				"articlescon",
+				"app\\Http\\Controllers\\ArticlesController.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				".blade",
+				"resources\\views\\articles\\show.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
